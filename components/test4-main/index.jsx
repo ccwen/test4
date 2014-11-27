@@ -25,7 +25,7 @@ var main = React.createClass({
     } else { 
     return (
       <div className="main">
-		{"Main of test4"}      </div>
+		{"Main of test4,  hi sam !!!"}      </div>
       );
     }
   }
